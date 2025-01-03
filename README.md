@@ -1,4 +1,4 @@
-## 👋 你好，我是YiLing,一个平凡的有志青年
+## 👋 你好，我是YiLing，一个平凡的有志青年
 ### 我使用的设备
 ![Static Badge](https://img.shields.io/badge/Xperia%201%20III-black?style=flat-square&logo=sony)
 ![Static Badge](https://img.shields.io/badge/iPhone%2015%20Pro-black?style=flat-square&logo=apple)
